@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eubxn34b0Oftxxv55owAEwrkRxspUQwBXr75/5SE8coVALxG81NLm0Nmuo8KW/R1Jopu9zDWfdtlSNCcWPKYRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julian.lastra\\source\\repos\\HTMLtoTXT\\HTMLtoTXT\\HTMLtoTXT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julian.lastra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\julian.lastra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

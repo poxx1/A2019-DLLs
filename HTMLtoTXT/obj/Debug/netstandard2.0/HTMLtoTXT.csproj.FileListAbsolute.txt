@@ -1,0 +1,9 @@
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\HTMLtoTXT\bin\Debug\netstandard2.0\HTMLtoTXT.deps.json
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\HTMLtoTXT\bin\Debug\netstandard2.0\HTMLtoTXT.dll
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\HTMLtoTXT\bin\Debug\netstandard2.0\HTMLtoTXT.pdb
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\HTMLtoTXT\obj\Debug\netstandard2.0\HTMLtoTXT.AssemblyInfoInputs.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\HTMLtoTXT\obj\Debug\netstandard2.0\HTMLtoTXT.AssemblyInfo.cs
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\HTMLtoTXT\obj\Debug\netstandard2.0\HTMLtoTXT.csproj.CoreCompileInputs.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\HTMLtoTXT\obj\Debug\netstandard2.0\HTMLtoTXT.dll
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\HTMLtoTXT\obj\Debug\netstandard2.0\HTMLtoTXT.pdb
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\HTMLtoTXT\obj\Debug\netstandard2.0\HTMLtoTXT.csprojAssemblyReference.cache
