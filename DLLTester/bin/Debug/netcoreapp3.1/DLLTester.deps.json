@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DLLTester/1.0.0": {
+        "dependencies": {
+          "HTMLtoTXT": "1.0.0"
+        },
+        "runtime": {
+          "DLLTester.dll": {}
+        }
+      },
+      "HTMLtoTXT/1.0.0": {
+        "runtime": {
+          "HTMLtoTXT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DLLTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HTMLtoTXT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

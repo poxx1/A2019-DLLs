@@ -1,0 +1,16 @@
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\bin\Debug\netcoreapp3.1\DLLTester.exe
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\bin\Debug\netcoreapp3.1\DLLTester.deps.json
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\bin\Debug\netcoreapp3.1\DLLTester.runtimeconfig.json
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\bin\Debug\netcoreapp3.1\DLLTester.runtimeconfig.dev.json
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\bin\Debug\netcoreapp3.1\DLLTester.dll
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\bin\Debug\netcoreapp3.1\DLLTester.pdb
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\obj\Debug\netcoreapp3.1\DLLTester.csprojAssemblyReference.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\obj\Debug\netcoreapp3.1\DLLTester.AssemblyInfoInputs.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\obj\Debug\netcoreapp3.1\DLLTester.AssemblyInfo.cs
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\obj\Debug\netcoreapp3.1\DLLTester.csproj.CoreCompileInputs.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\obj\Debug\netcoreapp3.1\DLLTester.dll
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\obj\Debug\netcoreapp3.1\DLLTester.pdb
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\obj\Debug\netcoreapp3.1\DLLTester.genruntimeconfig.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\bin\Debug\netcoreapp3.1\HTMLtoTXT.dll
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\bin\Debug\netcoreapp3.1\HTMLtoTXT.pdb
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLTester\obj\Debug\netcoreapp3.1\DLLTester.csproj.CopyComplete

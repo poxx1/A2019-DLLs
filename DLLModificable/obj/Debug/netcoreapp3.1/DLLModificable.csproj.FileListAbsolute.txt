@@ -1,0 +1,9 @@
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLModificable\bin\Debug\netcoreapp3.1\DLLModificable.deps.json
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLModificable\bin\Debug\netcoreapp3.1\DLLModificable.dll
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLModificable\bin\Debug\netcoreapp3.1\DLLModificable.pdb
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLModificable\obj\Debug\netcoreapp3.1\DLLModificable.csprojAssemblyReference.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLModificable\obj\Debug\netcoreapp3.1\DLLModificable.AssemblyInfoInputs.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLModificable\obj\Debug\netcoreapp3.1\DLLModificable.AssemblyInfo.cs
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLModificable\obj\Debug\netcoreapp3.1\DLLModificable.csproj.CoreCompileInputs.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLModificable\obj\Debug\netcoreapp3.1\DLLModificable.dll
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\DLLModificable\obj\Debug\netcoreapp3.1\DLLModificable.pdb
