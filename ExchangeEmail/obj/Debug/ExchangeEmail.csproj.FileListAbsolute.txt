@@ -1,0 +1,13 @@
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\ExchangeEmail\bin\Debug\ExchangeEmail.dll
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\ExchangeEmail\bin\Debug\ExchangeEmail.pdb
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\ExchangeEmail\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\ExchangeEmail\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\ExchangeEmail\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\ExchangeEmail\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\ExchangeEmail\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\ExchangeEmail\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\ExchangeEmail\obj\Debug\ExchangeEmail.csprojAssemblyReference.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\ExchangeEmail\obj\Debug\ExchangeEmail.csproj.CoreCompileInputs.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\ExchangeEmail\obj\Debug\ExchangeEmail.csproj.CopyComplete
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\ExchangeEmail\obj\Debug\ExchangeEmail.dll
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\ExchangeEmail\obj\Debug\ExchangeEmail.pdb

@@ -1,0 +1,10 @@
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\JuanGroso\bin\Debug\JuanGroso.dll
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\JuanGroso\bin\Debug\JuanGroso.pdb
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\JuanGroso\bin\Debug\JuanGroso.xml
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\JuanGroso\obj\Debug\JuanGroso.vbprojAssemblyReference.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\JuanGroso\obj\Debug\JuanGroso.Resources.resources
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\JuanGroso\obj\Debug\JuanGroso.vbproj.GenerateResource.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\JuanGroso\obj\Debug\JuanGroso.vbproj.CoreCompileInputs.cache
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\JuanGroso\obj\Debug\JuanGroso.dll
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\JuanGroso\obj\Debug\JuanGroso.xml
+C:\Users\julian.lastra\source\repos\HTMLtoTXT\JuanGroso\obj\Debug\JuanGroso.pdb
